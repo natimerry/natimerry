@@ -10,9 +10,5 @@ Hello, its me, Soham Nandy, a cybersecurity/linux enthusiast.
 
 ## GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=natimerry&theme=gitdimmed&no-frame=false&no-bg=true&margin-w=4)
-
-### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=natimerry&icon=0&color=12)](https://visitcount.itsvg.in)
