@@ -11,10 +11,10 @@
 
 - 📫 How to reach me **soham.nandy2006@gmail.com**
 
-[![!Top Languages](https://github-readme-stats-git-main-soham-nandys-projects.vercel.app/api/top-langs/?username=natimerry&layout=compact&hide=javascript,scheme,css,shell&exclude_repo=pathfinding_visualiser&theme=dark)](https://github-readme-stats-git-main-soham-nandys-projects.vercel.app/api/top-langs/?username=natimerry&layout=donut&hide=javascript,scheme,css,shell&exclude_repo=pathfinding_visualiser&theme=dark)
+[![!Top Languages](https://github-readme-stats-indol-eta-95.vercel.app/api/top-langs/?username=natimerry&layout=compact&hide=javascript,scheme,css,shell&exclude_repo=pathfinding_visualiser&theme=dark)](https://github-readme-stats-git-main-soham-nandys-projects.vercel.app/api/top-langs/?username=natimerry&layout=donut&hide=javascript,scheme,css,shell&exclude_repo=pathfinding_visualiser&theme=dark)
 
 
-[![Stats](https://github-readme-stats-git-main-soham-nandys-projects.vercel.app/api?username=natimerry&theme=dark)](https://github-readme-stats-git-main-soham-nandys-projects.vercel.app/api?username=natimerry&theme=dark)
+[![Stats](https://github-readme-stats-indol-eta-95.vercel.app/api?username=natimerry&theme=dark)](https://github-readme-stats-git-main-soham-nandys-projects.vercel.app/api?username=natimerry&theme=dark)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=natimerry&theme=dark" alt="natimerry" /></p>
 
