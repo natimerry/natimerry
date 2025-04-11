@@ -16,7 +16,7 @@
 
 [![Stats](https://github-readme-stats-indol-eta-95.vercel.app/api?username=natimerry&theme=dark)](https://github-readme-stats-git-main-soham-nandys-projects.vercel.app/api?username=natimerry&theme=dark)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=natimerry&theme=dark" alt="natimerry" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=natimerry&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
