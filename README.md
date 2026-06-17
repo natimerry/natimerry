@@ -13,7 +13,7 @@
 
 - https://natimerry.com
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natimerry&layout=compact&hide=javascript,scheme,html,css,shell&exclude_repo=pathfinding_visualiser,repak-rivals,wayland-dots&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natimerry&layout=compact&hide=javascript,scheme,html,css,shell&exclude_repo=pathfinding_visualiser,repak-rivals,wayland-dots,UAssetAPI-Kawaii&theme=dark)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=natimerry&theme=dark&mode=weekly)](https://git.io/streak-stats)
